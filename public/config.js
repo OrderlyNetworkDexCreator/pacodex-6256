@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Leaderboard,Trading,Portfolio,Markets",
-  "VITE_CUSTOM_MENUS": "Prueba, https://x.com/Pacrypto55",
+  "VITE_CUSTOM_MENUS": "Trading Competition, https://trading.fun/competitions/8c22890e-ce0b-4353-b0ce-2fc90e22954b",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://www.google.com/?hl=es",
   "VITE_DISCORD_URL": "https://www.google.com/?hl=es",
