@@ -1,6 +1,7 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
   "VITE_ORDERLY_BROKER_NAME": "PacoDEX",
+  "VITE_BROKER_EOA_ADDRESS": "0x04e50edcd627cc7c28aded53309b09fe08744495",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
   "VITE_ORDERLY_MAINNET_CHAINS": "1,42161,56,900900900,1329,43114,146,1514,80094,10,5000,34443,2741,98866,2818,8453",
@@ -19,6 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Leaderboard,Trading,Portfolio,Markets",
   "VITE_CUSTOM_MENUS": "Trading Competition, https://trading.fun/competitions/8c22890e-ce0b-4353-b0ce-2fc90e22954b",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://www.google.com/?hl=es",
   "VITE_DISCORD_URL": "https://www.google.com/?hl=es",
@@ -34,5 +36,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#6DC4B1\",\"downColor\":\"#D15A55\",\"pnlUpColor\":\"#6DC4B1\",\"pnlDownColor\":\"#D15A55\",\"chartBG\":\"#131722\"}"
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#6DC4B1\",\"downColor\":\"#D15A55\",\"pnlUpColor\":\"#6DC4B1\",\"pnlDownColor\":\"#D15A55\",\"chartBG\":\"#131722\"}",
+  "VITE_ANALYTICS_SCRIPT": ""
 };
