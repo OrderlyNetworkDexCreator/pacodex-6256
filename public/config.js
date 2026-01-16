@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Your DEX",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Leaderboard,Trading,Portfolio,Markets,Swap",
+  "VITE_ENABLED_MENUS": "Leaderboard,Trading,Portfolio,Markets,Swap,Points",
   "VITE_CUSTOM_MENUS": "Trading Competition, https://trading.fun/competitions/8c22890e-ce0b-4353-b0ce-2fc90e22954b",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
