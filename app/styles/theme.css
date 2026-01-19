@@ -119,3 +119,8 @@
 
 
 }
+
+/* overrides globales */
+[data-name="legend-source-exchange"] {
+  display: none !important;
+}
