@@ -120,7 +120,15 @@
 
 }
 
-/* overrides globales */
-[data-name="legend-source-exchange"] {
+/* try hide the whole block */
+[data-name="legend-source-exchange"],
+[data-name="legend-source-exchange"] * {
+  display: none !important;
+}
+
+/* sometimes it is nested inside the legend container */
+.tv-chart [data-name="legend-source-exchange"],
+.chart-container [data-name="legend-source-exchange"],
+#tv_chart_container [data-name="legend-source-exchange"] {
   display: none !important;
 }
