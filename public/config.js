@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/Pacrypto55",
   "VITE_SEO_SITE_NAME": "Pacrypto DEX",
   "VITE_SEO_SITE_DESCRIPTION": "Your DEX",
-  "VITE_SEO_SITE_URL": "https://pacryptodex.com",
+  "VITE_SEO_SITE_URL": "https://dex.orderly.network/pacodex-6256/",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@pacrypto55",
